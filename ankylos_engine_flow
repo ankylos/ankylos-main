@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T14:12:40.755Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" version="18.2.0" etag="H4xtvrTYx7ZhXw2Ysjgf" type="github"><diagram id="lJJ38jBaxuenuD0uS2oI">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-02T14:54:26.525Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="3CoanaVbG1wWDzIi2PdO" version="18.2.0" type="github">
+  <diagram id="lJJ38jBaxuenuD0uS2oI" name="Page-1">
+    <mxGraphModel dx="1718" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nlbjXPbTKnm9EF5F04C4-28" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="680" y="437.5" width="350" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="nlbjXPbTKnm9EF5F04C4-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nlbjXPbTKnm9EF5F04C4-28">
+          <mxGeometry width="350" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="nlbjXPbTKnm9EF5F04C4-15" value="Ankylos Crawler" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nlbjXPbTKnm9EF5F04C4-28">
+          <mxGeometry x="125" y="20" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nlbjXPbTKnm9EF5F04C4-16" value="crawler workers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nlbjXPbTKnm9EF5F04C4-28">
+          <mxGeometry x="30" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nlbjXPbTKnm9EF5F04C4-19" value="crawler workers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nlbjXPbTKnm9EF5F04C4-28">
+          <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nlbjXPbTKnm9EF5F04C4-20" value="crawler workers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nlbjXPbTKnm9EF5F04C4-28">
+          <mxGeometry x="50" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nlbjXPbTKnm9EF5F04C4-27" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="260" y="80" width="350" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="nlbjXPbTKnm9EF5F04C4-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nlbjXPbTKnm9EF5F04C4-27">
+          <mxGeometry width="350" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="nlbjXPbTKnm9EF5F04C4-1" value="Ankylos Frontend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nlbjXPbTKnm9EF5F04C4-27">
+          <mxGeometry x="20" y="82.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nlbjXPbTKnm9EF5F04C4-5" value="Ankylos Backend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nlbjXPbTKnm9EF5F04C4-27">
+          <mxGeometry x="210" y="82.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nlbjXPbTKnm9EF5F04C4-8" value="Ankylos Server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nlbjXPbTKnm9EF5F04C4-27">
+          <mxGeometry x="125" y="20" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nlbjXPbTKnm9EF5F04C4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="nlbjXPbTKnm9EF5F04C4-27" source="nlbjXPbTKnm9EF5F04C4-1" target="nlbjXPbTKnm9EF5F04C4-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nlbjXPbTKnm9EF5F04C4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nlbjXPbTKnm9EF5F04C4-2" target="nlbjXPbTKnm9EF5F04C4-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nlbjXPbTKnm9EF5F04C4-2" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="162.5" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nlbjXPbTKnm9EF5F04C4-9" value="search index db" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nlbjXPbTKnm9EF5F04C4-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nlbjXPbTKnm9EF5F04C4-14" target="nlbjXPbTKnm9EF5F04C4-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nlbjXPbTKnm9EF5F04C4-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nlbjXPbTKnm9EF5F04C4-5" target="nlbjXPbTKnm9EF5F04C4-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
